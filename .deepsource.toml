@@ -23,3 +23,6 @@ name = "javascript"
     "jquery",
     "nodejs"
   ]
+
+[[transformers]]
+name = "standardjs"
